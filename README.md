@@ -1,4 +1,6 @@
-express4mongoangular
-====================
+An example project for Express 4 mongodb and angularjs
+======================================================
 
-An example project for Express 4 mongodb and angular
+
+
+
