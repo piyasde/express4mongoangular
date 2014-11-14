@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-   "mocha": "*",
-   "should": ">= 0.0.1"
- }
-}
