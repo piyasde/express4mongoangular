@@ -1,0 +1,20 @@
+{
+  "name": "angular-tests",
+  "version": "1",
+  "authors": [
+    "PIYAS DE <piyas.de@gmail.com>"
+  ],
+  "description": "installation of libraries",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2",
+    "angular-mocks": "~1.3.2"
+  }
+}
