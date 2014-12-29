@@ -21,7 +21,7 @@ app.use( bodyParser.urlencoded() );       // to support JSON-encoded bodies
 app.use(compression());
 
 // routes ======================================================================
-require('./server-routes.js')(app); // load our routes and pass in our app
+require('./server-routes.js')(app); // load our routes and pass in our app and fully configured passport
 
 
 // launch ======================================================================
